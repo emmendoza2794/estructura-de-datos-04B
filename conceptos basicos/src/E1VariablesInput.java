@@ -14,6 +14,9 @@ import java.util.Scanner;
  *   boolean→ verdadero o falso (estado activo/inactivo)
  *   String → cadena de texto (nombre, descripción)
  */
+
+
+
 public class E1VariablesInput {
 
     public static void main(String[] args) {
